@@ -1,16 +1,25 @@
 # analytics-portfolio
 
-# 📊 Analytics Portfolio by Anabella Gardner
+# Analytics Portfolio by Anabella Gardner
 
 Welcome to my Business Analytics portfolio! This repository showcases selected projects from my coursework and independent work, using tools like Python, R, R Shiny SQL, and Power BI. Each project focuses on solving real-world problems using data analysis, visualization, and modeling techniques.
 
 ## 📁 Projects
 
-- **Week 1 – Regression Analysis**  
-  Predictive modeling using scikit-learn and cross-validation
+Week 1 – Guess the Song: SNL-Inspired Text Adventure Game
+This project is a playful Python-based "Guess the Song" adventure, inspired by an SNL sketch and enhanced with custom visuals created using Canva. Built entirely in a single Jupyter Notebook, this game challenges users to guess the correct musical path through three unpredictable stages of comedic chaos.
+
+✨ Highlights:
+
+-Game logic powered by user-defined functions, conditional statements, and loops (for & while)
+-Three uniquely styled stages, each with song-based decisions and random events
+-Includes 5+ variables, 1 list, 1 while loop, 1 for loop, and nested conditionals with else
+-Visual enhancements using Canva.
+-Designed to be completed in under 3 minutes with multiple possible outcomes
+-No global variables or class structures; strict adherence to project requirements
 
 
-  ## 💡 About Me
+  ## About Me
 
 I’m a Business Analytics graduate passionate about solving problems through data. With 15+ years in customer experience and a love for clear insights, I bring a unique blend of service excellence and analytical thinking to every project.
 
