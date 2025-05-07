@@ -4,6 +4,14 @@
 
 Welcome to my Business Analytics portfolio! This repository showcases selected projects from my coursework and independent work, using tools like Python, R, R Shiny SQL, and Power BI. Each project focuses on solving real-world problems using data analysis, visualization, and modeling techniques.
 
+
+## About Me
+
+I’m a Business Analytics graduate passionate about solving problems through data. With 15+ years in customer experience and a love for clear insights, I bring a unique blend of service excellence and analytical thinking to every project.
+
+---
+✨ Feel free to explore the folders and check out the projects. Feedback is always welcome!
+
 ## 📁 Projects
 
 ## Week 1 – Guess the Song: SNL-Inspired Text Adventure Game
@@ -27,12 +35,11 @@ This case study focuses on predicting customer revenue for Grocery Getters, Inc.
 -Compared models using R², RMSE, and train-test gap
 
 
+## Week 3 🥐 Croissant Image Classifier (Dataiku + MongoDB) - Unstructured Data 
+Built a binary image classification model in Dataiku to detect croissants from user-labeled images stored in MongoDB. The project combined unstructured data handling with visual ML pipelines to support a retail business insight.
+
+## ✨ Highlights:
+Used Dataiku for model training and evaluation
 
 
 
-  ## About Me
-
-I’m a Business Analytics graduate passionate about solving problems through data. With 15+ years in customer experience and a love for clear insights, I bring a unique blend of service excellence and analytical thinking to every project.
-
----
-✨ Feel free to explore the folders and check out the projects. Feedback is always welcome!
